@@ -47,7 +47,6 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 </a>
 
 <br />
-## 📪 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-mali-552570227/)](https://www.linkedin.com/in/dinesh-mali-552570227/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshdattatraymali@gmail.com)](mailto:dineshdattatraymali@gmail.com)
