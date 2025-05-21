@@ -47,17 +47,6 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 </a>
 
 <br />
-<br />
-
-<!-- 🔗 Social Icons (Right-Aligned) -->
-<a href="https://twitter.com/YOUR_HANDLE">
-  <img align="right" alt="Dinesh Mali | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/YOUR_USERNAME">
-  <img align="right" alt="Dinesh Mali | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a> 
-
-
 ## 📪 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-mali-552570227/)](https://www.linkedin.com/in/dinesh-mali-552570227/)
