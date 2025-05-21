@@ -1,16 +1,67 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h2 align="center">👋 Hello, I'm Dinesh Mali!</h2>
+<p align="center">💻 Full Stack Developer | 🎓 Computer Engineering Student | 🌍 Pune, India</p>
 
-<!--
-**Dmali1686/Dmali1686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with hands-on experience in building responsive websites and interactive applications.
+
+Here you'll find some of my latest projects, technologies I've been learning, and contributions to open-source.
+
+- 🌱 Currently learning: **Next.js**, **MongoDB**, **UI/UX Design**, and **DSA**
+- 🧠 Exploring cloud deployment and scalable backend systems
+- 🎯 Goal: Build meaningful digital products that solve real-world problems
+
+🔗 [Portfolio Website](#) *(Add link once ready)*
+
+---
+
+## 🛠️ Skills
+
+**Frontend Development**:  
+`HTML` `CSS` `JavaScript` `ReactJS` `TailwindCSS` `jQuery` `Bootstrap` `Next.js`
+
+**Backend Development**:  
+`Node.js` `Express.js` `MongoDB`
+
+**Tools**:  
+`Git` `GitHub` `Figma` `Postman`
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFFICIALNITIN&layout=compact)
+
+
+---
+
+## 📌 Pinned Projects
+<a href="https://github.com/Dmali1686/TO-DO-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmali1686&repo=TO-DO-Application&theme=buefy" />
+</a>
+<a href="https://github.com/Dmali1686/kanban-ui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmali1686&repo=kanban-ui&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<!-- 🔗 Social Icons (Right-Aligned) -->
+<a href="https://twitter.com/YOUR_HANDLE">
+  <img align="right" alt="Dinesh Mali | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/YOUR_USERNAME">
+  <img align="right" alt="Dinesh Mali | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a> 
+
+
+## 📪 Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-mali-552570227/)](https://www.linkedin.com/in/dinesh-mali-552570227/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshdattatraymali@gmail.com)](mailto:dineshdattatraymali@gmail.com)
+
+
+Thanks for visiting my profile, and feel free to check out my repositories! 
