@@ -15,7 +15,7 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 - 🎯 Goal: Build meaningful digital products that solve real-world problems
 
 🔗 **My_Porfolio**:
- `https://mydashbrd.netlify.app/`
+ https://mydashbrd.netlify.app/
 
 ---
 
