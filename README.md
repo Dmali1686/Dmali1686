@@ -14,7 +14,7 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 - 🧠 Exploring cloud deployment and scalable backend systems
 - 🎯 Goal: Build meaningful digital products that solve real-world problems
 
-🔗 [Portfolio Website](#) *(Add link once ready)*
+🔗 [Portfolio Website](#) [*(https://mydashbrd.netlify.app/)*]
 
 ---
 
