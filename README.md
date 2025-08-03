@@ -55,9 +55,10 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmali1686&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmali1686&layout=compact" alt="Top Langs" />
+</p>
 
----
 
 ## 📌 Pinned Projects
 
