@@ -14,17 +14,17 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 - 🧠 Exploring cloud deployment and scalable backend systems
 - 🎯 Goal: Build meaningful digital products that solve real-world problems
 
-🔗 **My_Porfolio**:  
-[https://mydashbrd.netlify.app/](https://mydashbrd.netlify.app/)
+<p align="center">
+  <a href="https://mydashbrd.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Visit My Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
-<!-- Frontend + Backend + Tools Icons Only -->
-<p align="left">
+<p align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -34,12 +34,12 @@ Here you'll find some of my latest projects, technologies I've been learning, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  
+
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  
+
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
@@ -47,6 +47,7 @@ Here you'll find some of my latest projects, technologies I've been learning, an
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
