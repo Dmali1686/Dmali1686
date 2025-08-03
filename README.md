@@ -62,13 +62,13 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 ## 📌 Pinned Projects
 
 <a href="https://github.com/Dmali1686/Roodan-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmali1686&repo=Roodan-Project&theme=buefy" />
-</a>
-<a href="https://github.com/Dmali1686/kanban-ui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmali1686&repo=kanban-ui&theme=buefy" />
+  <img align="center" src="https://img.shields.io/badge/Roodan--Project-121013?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
----
+<a href="https://github.com/Dmali1686/kanban-ui">
+  <img align="center" src="https://img.shields.io/badge/Kanban--UI-121013?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 
 ## 🔗 Connect With Me
 
