@@ -53,11 +53,12 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmali1686&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmali1686&layout=compact&theme=tokyonight&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmali1686&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmali1686&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
