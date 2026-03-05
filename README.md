@@ -57,10 +57,9 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dmali1686&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dmali1686&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dmali1686&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ## 📌 Pinned Projects
