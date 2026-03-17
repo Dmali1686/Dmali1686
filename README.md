@@ -5,31 +5,36 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-<img src="[https://komarev.com/ghpvc/?username=Dmali1686&label=Profile%20Views&color=0e75b6&style=for-the-badge](https://mydashbrd.netlify.app/#home)" />
+<img src="https://komarev.com/ghpvc/?username=Dmali1686&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- Profile Header -->
 <h2 align="center">👋 Hello, I'm Dinesh Mali!</h2>
 <p align="center">💻 Full Stack Developer | 🎓 Computer Engineering Student | 🌍 Pune, India</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with hands-on experience in building responsive websites and interactive applications.
+Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with hands-on experience building responsive websites and interactive applications.
 
-Here you'll find some of my latest projects, technologies I've been learning, and contributions to open-source.
+- 🌱 Currently learning **Next.js, MongoDB, UI/UX, DSA**
+- 🧠 Exploring **cloud deployment and scalable backend systems**
+- 🎯 Goal: **Build meaningful digital products**
 
-- 🌱 Currently learning: **Next.js**, **MongoDB**, **UI/UX Design**, and **DSA**
-- 🧠 Exploring cloud deployment and scalable backend systems
-- 🎯 Goal: Build meaningful digital products that solve real-world problems
+---
+
+# 🌐 Portfolio
 
 <p align="center">
-  <a href="https://mydashbrd.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Visit My Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
+<a href="https://mydashbrd.netlify.app">
+<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://api.microlink.io/?url=https://mydashbrd.netlify.app&screenshot=true&embed=screenshot.url"/>
 </p>
 
 ---
@@ -37,47 +42,16 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 # 🧑‍💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,nodejs,express,mongodb,git,github,figma,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,nodejs,express,mongodb,git,github,figma,postman"/>
 </p>
 
 ---
 
-## 🛠️ Skills
-
-### 🎨 Frontend
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-</p>
-
-### ⚙️ Backend
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</p>
-
-### 🧰 Tools
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Stats (REAL DATA)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dmali1686&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmali1686&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmali1686&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="170"/>
 </p>
 
 <p align="center">
@@ -94,19 +68,27 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 
 ---
 
-## 📌 Pinned Projects
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Dmali1686/Dmali1686/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 📌 Pinned Projects
 
 <a href="https://github.com/Dmali1686/Roodan-Project">
-<img align="center" src="https://img.shields.io/badge/Roodan--Project-121013?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Roodan--Project-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dmali1686/kanban-ui">
-<img align="center" src="https://img.shields.io/badge/Kanban--UI-121013?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Kanban--UI-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-mali-552570227/)
 
@@ -115,5 +97,5 @@ Here you'll find some of my latest projects, technologies I've been learning, an
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile, and feel free to check out my repositories!
+⭐ Thanks for visiting my profile!
 </p>
