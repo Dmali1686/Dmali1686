@@ -51,10 +51,12 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with han
 
 # 🔗 Connect With Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-mali-552570227/)
+<div display="flex">
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-mali-552570227/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:dineshdattatraymali@gmail.com)
 
+</div>
 ---
 
 <p align="center">
