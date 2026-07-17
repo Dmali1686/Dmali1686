@@ -1,7 +1,4 @@
-<!-- Animated Typing Intro -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello+I'm+Dinesh+Mali;Full+Stack+Developer;Computer+Engineering+Student;Building+Scalable+Web+Applications" />
-</p>
+
 
 <!-- Visitor Counter -->
 <p align="center">
@@ -39,42 +36,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with han
 
 ---
 
-# 🧑‍💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,nodejs,express,mongodb,git,github,figma,postman"/>
-</p>
-
----
-
-# 📊 GitHub Stats (REAL DATA)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dmali1686&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmali1686&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Dmali1686&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dmali1686&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Dmali1686/Dmali1686/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 📌 Pinned Projects
 
