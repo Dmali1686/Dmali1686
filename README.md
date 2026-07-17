@@ -16,7 +16,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with hands-on experience building responsive websites and interactive applications.
 
-- 🌱 Currently learning **Next.js, MongoDB, UI/UX, DSA**
+- 🌱 Currently learning **golang, Postgrule, UI/UX, DSA**
 - 🧠 Exploring **cloud deployment and scalable backend systems**
 - 🎯 Goal: **Build meaningful digital products**
 
