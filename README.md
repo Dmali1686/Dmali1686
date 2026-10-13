@@ -20,15 +20,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with han
 - 🧠 Exploring **cloud deployment and scalable backend systems**
 - 🎯 Goal: **Build meaningful digital products**
 
----
-
-# 🌐 Portfolio
-
-<p align="center">
 <a href="https://mydashbrd.netlify.app">
-<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
-</p>
 
 <p align="center">
 <img src="https://api.microlink.io/?url=https://mydashbrd.netlify.app&screenshot=true&embed=screenshot.url"/>
